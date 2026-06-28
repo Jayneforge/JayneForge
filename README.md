@@ -1,8 +1,8 @@
 # Hi, I'm Jayne 👋
 
-I build AI-powered automation systems — workflows that connect APIs, AI models, and business tools so people stop doing manual work that should never have been manual in the first place.
+I build AI-powered automation systems; workflows that connect APIs, AI models, and business tools so people stop doing manual work that should never have been manual in the first place.
 
-Right now I'm deep in n8n, the Claude API, and MCP — learning fast, building in public, and posting everything here as I go.
+Right now I'm deep in n8n, the Claude API, and MCP - learning fast, building in public, and posting everything here as I go.
 
 ## What I'm working with
 - n8n — workflow automation
