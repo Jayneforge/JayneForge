@@ -1,25 +1,33 @@
 # Hi, I'm Jayne 👋
 
-I build AI-powered automation systems; workflows that connect APIs, AI models, and business tools so people stop doing manual work that should never have been manual in the first place.
+I build automation systems that connect APIs, AI models and business tools, so people stop doing by hand what should never have been manual in the first place.
 
-Right now I'm deep in n8n, the Claude API, and MCP - learning fast, building in public, and posting everything here as I go.
+Before automation, I spent 3+ years in LLM evaluation and data annotation (Mindrift, Mercor, OneForma, SuperAnnotate). That's where I learned what AI gets wrong, and it shapes how I build: every workflow I ship has a confidence check, a fallback, and a human in the loop where it counts.
 
-## What I'm working with
-- n8n — workflow automation
-- Claude API + MCP (Model Context Protocol)
-- Airtable, OpenAI, JSON
-- Next up: AI agent building
+## What I've built
+Each project is modeled on a real job posting or client need, run under a fictional client name, and comes with a README, a WORKFLOW.md (architecture diagram plus a log of the bugs I found and fixed) and a Loom walkthrough.
 
-## Certificates so far
-To pivot this, I actually enrolled in some skill acquisition, no vibe-learning here :) 
-- Anthropic Academy — Building with the Claude API
-- Anthropic Academy — Introduction to MCP
-- Microsoft & LinkedIn — Career Essentials in Generative AI
+- **Lumen and Co.** - Shopify AI customer service. Contact form and Gmail intake, Groq classification, Shopify order lookup, confidence-based routing (auto-reply or escalate to Slack), everything logged to Airtable.
+- **Ama Events Co.** - Booking and lead intelligence engine. 41 nodes across WhatsApp, Instagram DMs and comments. Quick triage first, deep lead analysis second, then Airtable, Gmail and a Telegram alert to the owner.
+- **NexterTV Casting Pipeline** - Intake for a YouTube creator with three show formats. Duplicate detection, eligibility checks, GPT-4o scoring per show, Sheets routing, Slack and Telegram alerts.
+- **Email Triage Agent** - Four coordinated workflows. Gmail classification, Telegram alerts with unsubscribe/keep buttons, calendar date tracking, daily reminders and a weekly digest.
+
+## What I work with
+n8n · Claude API · MCP · Groq · OpenAI · Shopify Admin API · Meta Graph API · Airtable · Google Sheets · Slack · Telegram
+
+## Certificates
+- Anthropic Academy: Building with the Claude API
+- Anthropic Academy: Introduction to MCP
+- Microsoft AI Business Professional
+- Microsoft & LinkedIn: Career Essentials in Generative AI
+- Google Cloud Skills Boost: Generative AI Learning Path
+- Simplilearn SkillUp: n8n
+- Elements of AI (University of Helsinki)
 - Google Project Management: Foundations
 
-## Why I'm doing this
-I'm not learning this to join a crowd of applicants. I'm building real, working automations becaue despite the influx of people offering AI automation to solve SME problems, I am using an aspect that will actually "solve" repetitive workflow at a lower effective cost, without rendering the client obselete, and this page is going to be the proof, not a promise.
+## Why my builds look different
+There are a lot of people offering AI automation to small businesses right now. I'm not trying to out-shout them. I build things that actually take repetitive work off a team's plate at a lower running cost, without making the client dependent on me to keep it alive. And when something breaks while I'm building, I write it down, because that's the real proof of how I work.
 
-📍Working remote. Building for the world.
-
-More builds dropping soon — watch this space.
+🌐 [jayneforge.vercel.app](https://jayneforge.vercel.app)
+💼 [linkedin.com/in/jane-edward](https://www.linkedin.com/in/jane-edward)
+📍 Working remote. Building for the world.
