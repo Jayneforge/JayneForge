@@ -22,12 +22,15 @@ n8n · Claude API · MCP · Groq · OpenAI · Shopify Admin API · Meta Graph AP
 - Microsoft & LinkedIn: Career Essentials in Generative AI
 - Google Cloud Skills Boost: Generative AI Learning Path
 - Simplilearn SkillUp: n8n
-- Elements of AI (University of Helsinki)
-- Google Project Management: Foundations
+- Google Project Management
 
 ## Why my builds look different
 There are a lot of people offering AI automation to small businesses right now. I'm not trying to out-shout them. I build things that actually take repetitive work off a team's plate at a lower running cost, without making the client dependent on me to keep it alive. And when something breaks while I'm building, I write it down, because that's the real proof of how I work.
 
-🌐 [jayneforge.vercel.app](https://jayneforge.vercel.app)
+🌐 [jayneforge.vercel.app](https://jayneforge.vercel.app) 
+
 💼 [linkedin.com/in/jane-edward](https://www.linkedin.com/in/jane-edward)
+
+📧 [thejayneforge@outlook.com](mailto:thejayneforge@outlook.com)
+
 📍 Working remote. Building for the world.
